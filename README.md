@@ -13,14 +13,22 @@
 Foram realizadas as seguintes atividades:
 
 1- Criação de conta no GitHub
+
 2- Edição do profile
-2- Criação de organização fictícia
-3- Criação de repositório
-4- Adição de arquivos (teste.cs)
-5- Criação de branch (nova-funcionalidade)
-6- Alterações no código
-7- Realização de merge
-8- Versionamento de código
+
+3- Criação de organização fictícia
+
+4- Criação de repositório
+
+5- Adição de arquivos (teste.cs)
+
+6- Criação de branch (nova-funcionalidade)
+
+7- Alterações no código
+
+8- Realização de merge
+
+9- Versionamento de código
 
 ## Prints !!
 
