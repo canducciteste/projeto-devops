@@ -6,7 +6,7 @@
 
 ## Repositório: Projeto desenvolvido para demonstrar o uso do GitHub no controle de versão.
 
-## Etapa 1 - Apresentação: A apresentação sobre o GitHub está disponível na pasta /docs.
+## Etapa 1 - Apresentação: https://www.canva.com/design/DAHFLxTgD10/Xq-S-3v-Mt1jtJHzRdu4VQ/edit?utm_content=DAHFLxTgD10&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Etapa 2 - Execução prática:
 
